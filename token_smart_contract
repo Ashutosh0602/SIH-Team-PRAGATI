@@ -1,0 +1,28 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+
+contract RewardSystemToken is ERC20 {
+    address public owner;
+    uint256 public rewardRate = 10; // 10 tokens earned per action
+
+    constructor() ERC20("Reward System Token", "RST") {
+        owner = msg.sender;
+        _mint(owner, 1000000 * 10 ** uint256(decimals())); // Initial supply
+    }
+
+    modifier onlyOwner() {
+        require(msg.sender == owner, "Only the owner can call this function");
+        _;
+    }
+
+    function earnTokens() public {
+        _mint(msg.sender, rewardRate);
+    }
+
+    function redeemTokens(uint256 _amount) public {
+        require(balanceOf(msg.sender) >= _amount, "Insufficient balance");
+        _burn(msg.sender, _amount);
+    }
+}
