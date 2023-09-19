@@ -12,10 +12,32 @@ Pragati is not just about convenience; it's about sustainability. We're committe
 
 <img width="236" alt="Screenshot 2023-09-20 at 1 46 26 AM" src="https://github.com/Ashutosh0602/SIH-Team-PRAGATI/assets/85889617/d278560d-aee6-4624-88ae-714ae0738eaf">  <img width="237" alt="Screenshot 2023-09-20 at 1 47 30 AM" src="https://github.com/Ashutosh0602/SIH-Team-PRAGATI/assets/85889617/495a1e16-4f89-43cb-9a7d-88e398cc4bb9">  <img width="236" alt="Screenshot 2023-09-20 at 1 46 53 AM" src="https://github.com/Ashutosh0602/SIH-Team-PRAGATI/assets/85889617/bc42aed3-6b33-4189-ab11-a9db2f9d8ad5"><img width="240" alt="Screenshot 2023-09-20 at 1 47 05 AM" src="https://github.com/Ashutosh0602/SIH-Team-PRAGATI/assets/85889617/e06b7d22-48ab-4d6b-9033-0a496661f53b">
 
-
 Our partnerships with city authorities, transportation companies, and local businesses enhance the ecosystem, making Pragati your go-to choice for a seamless travel experience.
 
-Join us in giving 'gaati' to the development of our nation with Pragati – your one-stop solution for smarter, greener, and more efficient urban mobility
+Join us in giving 'gaati' to the development of our nation with Pragati – your one-stop solution for smarter, greener, and more efficient urban mobility.
+
+## Features
+
+1. **Real-time Parking Availability**: Pragati uses machine learning algorithms and sensor data to provide real-time updates on available parking spaces.
+
+2. **Dynamic Pricing**: Our system optimizes parking prices based on demand to ensure effective resource usage and generate sustainable revenue.
+
+3. **Parking Reservation and Payment**: Users can conveniently reserve parking spots and make payments through the app, saving time and reducing environmental impact.
+
+4. **Traffic Management**: Pragati analyzes traffic patterns to help city administrators manage congestion and optimize mobility.
+
+5. **Data Analysis**: Pragati collects and analyzes data on parking usage, traffic patterns, and pricing which can be used to make informed decisions and policy planning.
+
+## Tech Stack
+
+- **Machine Learning**: TensorFlow and PyTorch are used for predictive analysis and pattern recognition.
+- **Computer Vision**: OpenCV is used for real-time image and video analysis to detect vehicle presence.
+- **IoT Sensors**: Energy-efficient sensors are used for real-time data collection on the availability of parking spaces.
+- **Backend**: Python and Node.js handle server-side operations, processing sensor data, and running machine learning models.
+- **Frontend**: Flutter is used to create an intuitive and responsive user interface.
+- **Database**: Firebase is used to store real-time sensor data and user information. It allows for efficient data retrieval and real-time updates.
+- **Cloud**: AWS provides scalable computing and storage resources, ensuring the system can handle large amounts of data and high traffic loads.
+- **Blockchain**: Blockchain for recording transaction and data, payment processing and NFT/ Token based reward system.
 
 
 # Getting Started with Create React App
