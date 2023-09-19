@@ -2,7 +2,7 @@
 
 # Smart and Effective realtime Management of street parking [Problem No: SIH1515]
 
-## Deployed Web Link: https://pragati-x5mr.onrender.com
+## Deployed Web/App Link: https://pragati-x5mr.onrender.com
 ## Demo Video Link: 
 ### SIH Presentation: https://www.figma.com/proto/ij7gryKbJWIWUhDt9ZDe9C/SIH-PPT?type=design&node-id=1-2&t=jr8khi3pu7HBCdHo-1&scaling=contain&page-id=0%3A1&mode=design
 
