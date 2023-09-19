@@ -1,3 +1,5 @@
+![WhatsApp Image 2023-09-20 at 00 30 19](https://github.com/Ashutosh0602/SIH-Team-PRAGATI/assets/85889617/18ae519e-a3a0-497c-9fa7-22a0c0273c63)
+
 # Smart and Effective realtime Management of street parking [Problem No: SIH1515]
 
 ## Deployed Web Link: https://pragati-x5mr.onrender.com
