@@ -17,7 +17,7 @@ Our partnerships with city authorities, transportation companies, and local busi
 Join us in giving 'gaati' to the development of our nation with Pragati – your one-stop solution for smarter, greener, and more efficient urban mobility.
 
 ## Sensors Architecture
-<img width="704" alt="image" src="https://github.com/Ashutosh0602/SIH-Team-PRAGATI/assets/85889617/accd5f6f-c3d3-481f-8b38-c521ae41160b"><img width="750" alt="image" src="https://github.com/Ashutosh0602/SIH-Team-PRAGATI/assets/85889617/7bc69770-8a6a-4451-a537-74ff04f71fbb">
+<img width="500" alt="image" src="https://github.com/Ashutosh0602/SIH-Team-PRAGATI/assets/85889617/accd5f6f-c3d3-481f-8b38-c521ae41160b"> <img width="500" alt="image" src="https://github.com/Ashutosh0602/SIH-Team-PRAGATI/assets/85889617/7bc69770-8a6a-4451-a537-74ff04f71fbb">
 
 ## Features
 
