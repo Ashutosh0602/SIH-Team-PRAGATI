@@ -7,6 +7,7 @@
 Imagine a city where finding a parking spot is effortless, where traffic congestion is minimized, and where you can seamlessly navigate urban mobility. That's the vision behind Pragati, India's premier smart parking solution.
 
 Pragati is not just about convenience; it's about sustainability. We're committed to reducing traffic congestion and air pollution, aligning with India's smart city initiatives.
+
 <img width="236" alt="Screenshot 2023-09-20 at 1 46 26 AM" src="https://github.com/Ashutosh0602/SIH-Team-PRAGATI/assets/85889617/d278560d-aee6-4624-88ae-714ae0738eaf">  <img width="237" alt="Screenshot 2023-09-20 at 1 47 30 AM" src="https://github.com/Ashutosh0602/SIH-Team-PRAGATI/assets/85889617/495a1e16-4f89-43cb-9a7d-88e398cc4bb9">  <img width="236" alt="Screenshot 2023-09-20 at 1 46 53 AM" src="https://github.com/Ashutosh0602/SIH-Team-PRAGATI/assets/85889617/bc42aed3-6b33-4189-ab11-a9db2f9d8ad5">
 
 Our partnerships with city authorities, transportation companies, and local businesses enhance the ecosystem, making Pragati your go-to choice for a seamless travel experience.
