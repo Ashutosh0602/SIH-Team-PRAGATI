@@ -3,6 +3,8 @@
 # Smart and Effective realtime Management of street parking [Problem No: SIH1515]
 
 ## Deployed Web Link: https://pragati-x5mr.onrender.com
+## Demo Video Link: 
+### SIH Presentation: https://www.figma.com/proto/ij7gryKbJWIWUhDt9ZDe9C/SIH-PPT?type=design&node-id=1-2&t=jr8khi3pu7HBCdHo-1&scaling=contain&page-id=0%3A1&mode=design
 
 Imagine a city where finding a parking spot is effortless, where traffic congestion is minimized, and where you can seamlessly navigate urban mobility. That's the vision behind Pragati, India's premier smart parking solution.
 
