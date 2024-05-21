@@ -1,6 +1,6 @@
 import axios from "axios";
 // const BASE_URL = "https://rentaspotadmin.onrender.com/"
-const BASE_URL = "https://pragatiback.onrender.com//";
+const BASE_URL = "https://pragati-backend-elhj.onrender.com/";
 
 export const fetchParkings = async ({ user_id, setParkings }) => {
   try {
